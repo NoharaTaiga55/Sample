@@ -1,6 +1,6 @@
 # はじめてのGitHub
 NoharaTaiga55 野原大雅
-https://github.com/NoharaTaiga/Sample
+https://github.com/NoharaTaiga55/Sample
 
 ## ローカルリポジトリ
 * お好み焼きレシピ
